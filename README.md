@@ -1,2 +1,3 @@
-# Python-class143
-MovieRecommendationApp
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
+updated by subhra
