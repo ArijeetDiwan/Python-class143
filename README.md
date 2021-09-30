@@ -1,3 +1,4 @@
-# angryBirdsStage2
-Angry Birds stage 2 with Class Inheritance and Images
-updated by subhra
+https://snack.expo.dev/@subhra/class143-imdb-moive-recommendation-stage-1
+
+
+
