@@ -11,3 +11,6 @@ add the cors plugin
 check the output in snack
 
 
+https://snack.expo.dev/@arijeetdiwan/class143-imdb-moive-recommendation-stage-1
+
+
